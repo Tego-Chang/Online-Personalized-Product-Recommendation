@@ -3,6 +3,7 @@
 In this project, we have:
 
 • Built an online recommendation system to suggest customized items based on a 1M-observation like-unlike dataset.
+
 • Applied Collaborative Filtering to calculate similarity scores among users using Pandas and achieved a 74% accuracy.
 
 The design flow of this project:
